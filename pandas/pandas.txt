@@ -1,0 +1,7 @@
+Key data Structures
+    Data Frames: 2D structure that holds data of multiple data types 
+    Series: 1D structure that holds data of a single data type 
+
+Internal API, Axis 
+    axis = 0: refers to rows (Series only has 0 axis)
+    axis = 1: refers to columns 
